@@ -1,0 +1,9 @@
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data & Artifacts (Best practice is to not commit these to git)
+artifacts/*.joblib
+reports/*.csv
