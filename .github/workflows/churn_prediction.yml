@@ -28,7 +28,7 @@ jobs:
         run: python scripts/predict_churn.py
 
       - name: Upload Churn Report
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: churn-report
           path: reports/
