@@ -62,7 +62,7 @@ The following diagram illustrates the automated workflow:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <https://github.com/Kevin-yyuan/automated_batch_prediction_pipeline.git>
+    git clone https://github.com/Kevin-yyuan/automated_batch_prediction_pipeline.git
     cd automated_batch_prediction_pipeline
     ```
 
